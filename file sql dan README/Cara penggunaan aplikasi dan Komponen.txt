@@ -1,0 +1,11 @@
+cara penggunaan:
+1. masuk ke http://localhost/testkerja/public/login atau http://127.0.0.1:8000/login
+2. masukkan email dan password yang tertera di database (email: zulfandridwiputra@gmail.com dan password: falihah)
+3. untuk menambah data ada di tombol yang bergambar pensil
+4. untuk edit dan delete ada di tombol sebelah kanan
+5. untuk search ada di sebelah atas
+6. untuk logout ada di sebelah profil yang di sebelah kanan atas
+
+komponen:
+1. database berada di folder "file sql dan README"
+2. database bernama "testkerja.sql"
